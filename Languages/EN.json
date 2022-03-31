@@ -1,10 +1,10 @@
 {
-    "__ASENAJSON__": true,
+    "__AlphaJSON__": true,
     "LANGUAGE": "English",
     "LANGCODE": "en",
-    "AUTHOR": "AsenaDev",
+    "AUTHOR": "MHMD MUKRIM",
     "STRINGS": {
-        "_asena": {
+        "_Alpha": {
             "COMMAND": "Command",
             "DESC": "Description",
             "EXAMPLE": "Example",
@@ -15,7 +15,7 @@
             "INSTALL_DESC": "Install external plugins.",
             "NEED_URL": "Please enter a URL! Example:",
             "INVALID_URL": "```Please enter a valid url!```",
-            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/c/TamilTurboGamingYT*",
+            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Subscribe me otherwise you will get errors https://youtube.com/channel/UCVAxXD5Xxy-EMQihe-ALImA*",
             "INSTALLED": "*✅ Plugin has been successfully installed!*",
             "PLUGIN_DESC": "Shows the plugins you have installed.",
             "INSTALLED_FROM_REMOTE": "*Plugins you install externally:*\n",
@@ -56,8 +56,8 @@
             "REASON": "Reason",
             "LAST_SEEN": "Last Seen",
             "IM_NOT_AFK": "```I am not AFK anymore!```",
-            "AFK_TEXT": "```My owner is not here at the moment.```",
-            "AFK_TEXT_NOMD": "I am bot!",
+            "AFK_TEXT": "```My owner is not here at the moment.Bot creat by MR.DEVIL```",
+            "AFK_TEXT_NOMD": "I am ALPHA BOT!",
             "HOUR": "hour",
             "MINUTE": "minute",
             "SECOND": "second"
@@ -72,9 +72,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart Alexa",
+            "RESTART_DESC": "Restart Alpha",
             "RESTART_MSG": "```Restarting...🧚‍♂️```",
-            "SHUTDOWN_DESC": "Shutdown Alexa",
+            "SHUTDOWN_DESC": "Shutdown Alpha",
             "SHUTDOWN_MSG": "```Shutting down 😴```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -88,7 +88,7 @@
             "GETVAR_DESC": "Get heroku config var",
             "DELVAR_DESC": "Delete heroku config var",
             "DEL_SUCCESS": "```{} successfully deleted```",
-            "NOT_FOUND": "```no results found for this key```"           
+            "NOT_FOUND": "```no results found for this key```"
         },
         "filters": {
             "FILTER_DESC": "It adds a filter. If someone writes your filter, it send the answer. If you just write .filter, it show's your filter list.",
@@ -128,7 +128,7 @@
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
             "NEED_REPLY": "*Reply to a photo!*",
-            "DOWNLOADING": "```Downloading media & making meme...```"
+            "DOWNLOADING": "```Alpha Downloading media & making meme...```"
         },
         "log": {
             "LOG": "Saves the message you reply to your private number.",
@@ -186,25 +186,25 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song look at me```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*Song Thapatte 🧚‍♂️*\n",
-            "UPLOADING_SONG": "\n*Uploading 📲 Use 🎧*\n",
+            "DOWNLOADING_SONG": "\n*Alpha Downloading song 🧚‍♂️*\n",
+            "UPLOADING_SONG": "\n*Alpha is Uploading 📲 Use 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/W725IHjXFHY```",
-            "DOWNLOADING_VIDEO": "```Downloading 🎥...```",
-            "UPLOADING_VIDEO": "```Uploading...```",
+            "DOWNLOADING_VIDEO": "```Alpha Downloading 🎥...```",
+            "UPLOADING_VIDEO": "```Alpha is Uploading...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
             "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
-            "SEARCHING": "*🔎 Searching...*",
+            "SEARCHING": "*🔎 Alpha is Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
-            "IMG": "```Uploading photo``` *{}* ```number``` *{}*"
+            "IMG": "```Alpha is Uploading photo``` *{}* ```number``` *{}*"
         },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Ippam Seriyakithra 🤠```"
+            "DOWNLOADING": "```Downloading 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -217,13 +217,13 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "*Your bot is completely up-to-date!*",
-            "NEW_UPDATE": "*Alexa Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/c/TurboMods \n https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp \n\nChanges:\n```",
+            "NEW_UPDATE": "*Alpha Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/c/TurboMods \n https://chat.whatsapp.com/LWjJ4tu2qe9BWQZ1JzRZgp \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..🧚‍♂️```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😎 Alexa Restarting*"
+            "AFTER_UPDATE": "*😎 Alpha Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
@@ -300,8 +300,9 @@
             "FBDESC":"Download videos from fb link",
             "NEED_WORDFB":"Download videos from fb link",
             "NOT_FOUNDFB":"Fb video not found"
-            
-            
+
+
+
         },
         "web": {
             "SPEEDTEST_DESC": "Measures Download and Upload speed.",
@@ -322,7 +323,7 @@
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
-            "T_DESC": "Applies the selected TBlend effect to videos." 
+            "T_DESC": "Applies the selected TBlend effect to videos."
         },
         "mute": {
             "1MUTE": "*The group was silenced for 1 minute!*",
@@ -447,7 +448,7 @@
             "TRUMP_DESC": "Converts the text to Trump's tweet.",
             "CHANGE_DESC": "Turns the text into the change my mind poster."
        },
-       "anime": { 
+       "anime": {
             "AN": "It sends an Anime Randomly."
         },
         "wallpaper": {
@@ -470,7 +471,7 @@
             "SAVE_USAGE": "Reply a message and type .save or just use .save <Your note> without replying",
             "REPLY": "Please provide a note or reply to a message.",
             "SUCCESSFULLY_ADDED": "Successfully added new note, check your notes with .notes.",
-            "UNSUCCESSFUL": "Could not add note, please try again later or contact WhatsAsena developers.",
+            "UNSUCCESSFUL": "Could not add note, please try again later or contact WhatsAlpha developers.",
             "DELETE_USAGE": "Deletes *all* your saved notes.",
             "SUCCESSFULLY_DELETED": "Successfully deleted all your notes."
         },
@@ -490,9 +491,10 @@
             "NOT_FOUND":"User not found: "
         },
         "qrgenerator": {
-             "TEXT": "You must enter text!",
+            "TEXT": "You must enter text!",
             "QR_DESC": "Converts the given text into a qr code image."
-            
+
+
         },
         "whois": {
             "PL_DESC": "Displays metadata data of group or person.",
